@@ -1,5 +1,5 @@
 jupyterlab==1.2.3
 jupytext==1.2.4
-tensorflow==2.0.0
+tensorflow==2.0.1
 numpy==1.17.4
 pandas==0.25.3
